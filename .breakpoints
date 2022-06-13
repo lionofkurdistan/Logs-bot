@@ -1,0 +1,48 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "44e68ec5-8974-43a7-bbd4-402b12c0bfd9",
+        "line": 134,
+        "version": 1543,
+        "index": 6012
+      },
+      {
+        "id": "c55581d0-e1e9-46d9-abf8-5e82a563922e",
+        "line": 134,
+        "version": 1543,
+        "index": 6012
+      },
+      {
+        "id": "2e8e9c22-1762-4dbe-b299-830f57e8da82",
+        "line": 278,
+        "version": 1543,
+        "index": 11845
+      },
+      {
+        "id": "4ec20b09-8efb-4941-8d5a-95d38fc1934b",
+        "line": 307,
+        "version": 1543,
+        "index": 13101
+      },
+      {
+        "id": "78319a8b-832c-4128-a346-acafb62b48e3",
+        "line": 332,
+        "version": 1543,
+        "index": 14026
+      },
+      {
+        "id": "54281b5e-c3c6-4565-a3ad-2f022e588ea1",
+        "line": 387,
+        "version": 1543,
+        "index": 16393
+      },
+      {
+        "id": "66725b0b-f640-4987-965a-2e97e2999294",
+        "line": 485,
+        "version": 1543,
+        "index": 21205
+      }
+    ]
+  }
+}
